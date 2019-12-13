@@ -1,0 +1,17 @@
+
+1 Make materials
+  1.1 Make Clay
+    1.1.1 gather materials
+      1.1.1.1 weigh out materials
+      1.1.1.2 dry mix materials
+      1.1.1.3 pour into mixer
+    1.1.2 Add water
+      1.1.2.1 Find a bucket
+      1.1.2.2 Fill bucket to desired weight
+      1.1.2.2 Pour into clay mixer
+    1.1.3 Run mixer until combined
+    1.1.4 Remove clay from mixer
+      1.1.4.1 Wedge clay
+      1.1.4.2 Place into plastic bags
+      1.1.4.3 Seal bags
+  1.2 Make glaze
